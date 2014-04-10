@@ -1,0 +1,23 @@
+{
+  "name": "bitstarter2",
+  "version": "0.0.0",
+  "description": "bitstarter ==========",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mediko/bitstarter2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mediko/bitstarter2/issues"
+  },
+  "homepage": "https://github.com/mediko/bitstarter2",
+  "dependencies": {
+    "logfmt": "~1.1.2",
+    "express": "~4.0.0"
+  }
+}
